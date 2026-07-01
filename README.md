@@ -97,3 +97,5 @@ The data has a clear relational structure: each video belongs to one channel, an
 | @Rokia-m8g | 21 |
 
 
+<img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/e47296d7-7dce-4cb8-9697-41214252c48c" />
+
